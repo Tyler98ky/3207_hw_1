@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tylerhoward/CLionProjects/3207-hw-1/Config.h
+
+/Users/tylerhoward/CLionProjects/3207-hw-1/PriorityQueue.h
+
+/Users/tylerhoward/CLionProjects/3207-hw-1/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+string.h
+-
+main.h
+/Users/tylerhoward/CLionProjects/3207-hw-1/main.h
+Config.h
+/Users/tylerhoward/CLionProjects/3207-hw-1/Config.h
+PriorityQueue.h
+/Users/tylerhoward/CLionProjects/3207-hw-1/PriorityQueue.h
+
+/Users/tylerhoward/CLionProjects/3207-hw-1/main.h
+PriorityQueue.h
+/Users/tylerhoward/CLionProjects/3207-hw-1/PriorityQueue.h
+
